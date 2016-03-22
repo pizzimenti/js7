@@ -1,0 +1,21 @@
+{
+  "name": "angular2-skeleton-app",
+  "description": "angular2 intro",
+  "main": "",
+  "authors": [
+    "Brad Pizzimenti <brad@gennakersystems.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
